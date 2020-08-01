@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/svi3c/jasmine-ts.git"
+    "url": "git+https://github.com/kolbma/jasmine-ts.git"
   },
   "keywords": [
     "node",
